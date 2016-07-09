@@ -1,4 +1,2 @@
-## CodeVS Judge
-
-codevs  开放评测平台
+## move to https://github.com/CodeVS-Open/CodeVS-Elastic-Judge
 
